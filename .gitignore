@@ -1,0 +1,61 @@
+# Data files (too large for git)
+data/*.csv
+data/*.parquet
+*.csv
+!data/README.md
+
+# Trained models (large binary files)
+*.cbm
+*.pkl
+*.joblib
+model_*.json
+model_*.txt
+
+# Keep config files
+!calibration.json
+!feature_order.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+training_*.log
+
+# CatBoost artifacts
+catboost_info/
+
+# Archives
+*.zip
+*.tar.gz
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
