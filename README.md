@@ -11,6 +11,13 @@
 
 ---
 
+## 🔗 Resources
+
+- **Dataset**: [Kaggle Dataset](https://www.kaggle.com/datasets/21aec48d66d01ada53f468b9552136a97182a996bae9845a5787c51b0cbf592b)
+- **Competition Rules & Problem Description**: [Notion Page](https://www.notion.so/Overnight-Finance-Challenge-ETH-USDC-Predictions-25a2ab88fe6380f996e7c61fc9a9e036)
+
+---
+
 ## 📋 Problem Statement
 
 Predict **5-class price movement** from Limit Order Book (LOB) data in a **streaming scenario** — no future data leakage allowed.
@@ -303,26 +310,6 @@ overnight-finance-challenge/
 
 ---
 
-## 🙏 Acknowledgments
-
-- **Artem Gruzdev** — ML lessons that laid the foundation for this solution
-- **[Gewissta Telegram Community](https://t.me/Gewissta)** — valuable discussions, ideas, and code snippets that helped navigate the challenge and avoid common mistakes
-
----
-
-## 👤 Author
-
-**Senior Data Scientist** specializing in Computer Vision at **inDrive**
-
-This project demonstrates skills in:
-- Time series classification
-- Handling severe class imbalance
-- Ensemble methods and stacking
-- GPU-accelerated training
-- Hyperparameter optimization (Optuna)
-- Probability calibration techniques
-
----
 
 ## 📄 License
 
