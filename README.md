@@ -3,7 +3,7 @@
 > **Multiclass Time Series Classification for Financial Data**  
 > Kaggle-style competition solution with **F1-macro = 0.4675**
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://python.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0+-green.svg)](https://xgboost.readthedocs.io)
 [![CatBoost](https://img.shields.io/badge/CatBoost-1.2+-yellow.svg)](https://catboost.ai)
 [![LightGBM](https://img.shields.io/badge/LightGBM-4.0+-orange.svg)](https://lightgbm.readthedocs.io)
@@ -208,7 +208,7 @@ git clone https://github.com/yourusername/overnight-finance-challenge.git
 cd overnight-finance-challenge
 
 # Create virtual environment (using uv - recommended)
-uv venv .venv --python 3.10
+uv venv .venv --python 3.13
 source .venv/bin/activate
 
 # Install dependencies
@@ -314,6 +314,12 @@ overnight-finance-challenge/
 ## 📄 License
 
 MIT License — feel free to use this code for learning and reference.
+
+---
+
+## 🏷️ Topics
+
+`python` `machine-learning` `xgboost` `catboost` `lightgbm` `time-series` `financial-data` `limit-order-book` `ensemble-learning` `class-imbalance` `calibration` `feature-engineering` `optuna` `kaggle-competition` `portfolio-project` `data-science` `gpu` `cuda` `streaming` `scikit-learn`
 
 ---
 
